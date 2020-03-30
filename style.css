@@ -1,12 +1,12 @@
 img {
-    height: 700px;
+    height: 800px;
     width: 600px;
     padding: 30px; 
 }
 
 iframe {
     float: right; 
-    height: 650px;
+    height: 750px;
     width: 600px;
     border:10px solid palevioletred;
 }
