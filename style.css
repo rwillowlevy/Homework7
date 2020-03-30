@@ -1,0 +1,29 @@
+img {
+    height: 700px;
+    width: 600px;
+    padding: 30px; 
+}
+
+iframe {
+    float: right; 
+    height: 650px;
+    width: 600px;
+    border:10px solid palevioletred;
+}
+
+.footer {
+    background: palevioletred;
+    height: 50px;
+    width: 100%;
+    text-align: center; 
+    padding: 15px; 
+}
+
+.card {
+    background-color: white;
+    color: palevioletred;
+}
+
+.btn {
+    background-color: palevioletred;
+}
